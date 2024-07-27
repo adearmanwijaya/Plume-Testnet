@@ -1,0 +1,6 @@
+web3==6.2.0
+pandas==1.5.3
+numpy==1.26.4
+requests==2.31.0
+openpyxl==3.0.10
+eth_account
